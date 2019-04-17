@@ -1,8 +1,11 @@
 {
-  "name": "jsreport-docxtemplater",
-  "version": "0.1.1",
+  "name": "@inventify/jsreport-docxtemplater",
+  "version": "0.1.2-beta",
   "description": "jsreport recipe using docxtemplater to create docx files",
   "homepage": "https://github.com/jsreport/jsreport-docxtemplater",
+  "publishConfig": {
+    "registry": "https://nexus.local.inventify.com/repository/inventify-npm/"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:jsreport/jsreport-docxtemplater.git"
